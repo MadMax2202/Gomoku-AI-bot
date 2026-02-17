@@ -1,6 +1,7 @@
 # Gomoku AI Battle Report
 
 **ESILV A3 — Artificial Intelligence and Data Science Project**
+**Old project**
 
 ## Introduction
 
